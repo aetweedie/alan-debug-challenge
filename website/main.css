@@ -1,0 +1,54 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: Tahoma, Geneva, sans-serif
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	font-family: Tahoma, Geneva, sans-serif
+	}
+	
+body {
+    background-image: url("assets/atlas-v-launch.jpg");
+    background-repeat: no-repeat;
+    background-position: left-top;
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: middle;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #0066FF;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+	
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
